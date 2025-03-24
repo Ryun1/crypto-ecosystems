@@ -83,6 +83,7 @@ github_organizations = [
   "https://github.com/IntersectMBO",
   "https://github.com/jpg-store",
   "https://github.com/lidonation",
+  "https://github.com/logical-mechanism",
   "https://github.com/marlowe-lang",
   "https://github.com/MartifyLabs",
   "https://github.com/masumi-network",
@@ -2073,6 +2074,9 @@ url = "https://github.com/cent-development/basic-smart-contracts"
 missing = true
 
 [[repo]]
+url = "https://github.com/Cerkoryn/Cardano-Governance-Dashboard"
+
+[[repo]]
 url = "https://github.com/cffls/cardano-vesting"
 
 [[repo]]
@@ -3219,6 +3223,9 @@ url = "https://github.com/HemaZ/plutus-starter"
 
 [[repo]]
 url = "https://github.com/Horrocubes/cardano-nft-factory"
+
+[[repo]]
+url = "https://github.com/HOSKYToken/poo-genericClaim"
 
 [[repo]]
 url = "https://github.com/House-of-Cardano/cardano-millions"
@@ -7635,6 +7642,9 @@ url = "https://github.com/sblyr/cardano-minter"
 url = "https://github.com/SealSC/cardano-plutus-contracts"
 
 [[repo]]
+url = "https://github.com/selfdriven-foundation/cardano-wallets"
+
+[[repo]]
 url = "https://github.com/sergey-melnychuk/doing-some-cardano"
 
 [[repo]]
@@ -7703,6 +7713,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/simonholmes001/plutus-starter"
+
+[[repo]]
+url = "https://github.com/SinglePoolAlliance/Registration"
 
 [[repo]]
 url = "https://github.com/sirhung1993/hodler-pool"
